@@ -9,7 +9,7 @@ Repository of Notebooks for the timeseries practicals
 
 Completed notebooks:
 
-[Google drive folder with the completed notebooks](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0))
+[Google drive folder with the completed notebooks](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
 
 
 ## Instructions to get started:
