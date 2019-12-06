@@ -7,7 +7,7 @@ Repository of Notebooks for the timeseries practicals
 - [MACHINE LEARNING, TRAPS & SIGNAL CLASSIFICATION](https://drive.google.com/open?id=0B5HWSvDb1DneR2J4VjNwbGp4enExaVpFblZ6bzIyV1pCT3Aw)
 - [TIME SERIES : DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneWFdVcEdUMDZDUHZSMVNyTDBpeFRPdFRfZUlJ)
 
-Completed notebooks:
+## Completed notebooks:
 
 [Google drive folder with the completed notebooks](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
 
