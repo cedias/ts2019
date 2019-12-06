@@ -5,6 +5,9 @@ Repository of Notebooks for the timeseries practicals
 
 > They will be available after each sessions.
 
+- [INTRODUCTION, TASKS, APPROACHES & ISSUES](https://drive.google.com/open?id=0B5HWSvDb1DneS1QyQll2MC1GblNVQUo5VGktRTFEZnlMYU9B)
+- [MACHINE LEARNING, TRAPS & SIGNAL CLASSIFICATION](https://drive.google.com/open?id=0B5HWSvDb1DneR2J4VjNwbGp4enExaVpFblZ6bzIyV1pCT3Aw)
+
 ## Instructions to get started:
 __Every notebook is self contained, datasets are small enough and already unzipped.__
 
