@@ -17,3 +17,9 @@ __Every notebook is self contained, datasets are small enough and already unzipp
 - Clone repository or [download repository](https://github.com/cedias/ts2019/archive/master.zip)
 - Unzip it somewhere if you've downloaded it
 - Open the notebooks with jupyter notebook.
+
+## Colab links:
+
+- TS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/ts2019/blob/master/TS1.ipynb)
+- TS2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/ts2019/blob/master/TS2.ipynb)
+- TS3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/ts2019/blob/master/TS3.ipynb)
