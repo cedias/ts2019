@@ -3,9 +3,9 @@ Repository of Notebooks for the timeseries practicals
 
 ## SLIDES OF COURSES:
 
-- [INTRODUCTION, TASKS, APPROACHES & ISSUES](https://drive.google.com/open?id=0B5HWSvDb1DneS1QyQll2MC1GblNVQUo5VGktRTFEZnlMYU9B)
-- [MACHINE LEARNING, TRAPS & SIGNAL CLASSIFICATION](https://drive.google.com/open?id=0B5HWSvDb1DneR2J4VjNwbGp4enExaVpFblZ6bzIyV1pCT3Aw)
-- [TIME SERIES : DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneWFdVcEdUMDZDUHZSMVNyTDBpeFRPdFRfZUlJ)
+- [INTRODUCTION, TASKS, APPROACHES & ISSUES](https://drive.google.com/open?id=0B5HWSvDb1DneTWpaQXVCNHFURk54cnNOTXdjNlFpT1l5RVFn)
+- [MACHINE LEARNING, TRAPS & SIGNAL CLASSIFICATION](https://drive.google.com/open?id=0B5HWSvDb1DneSlFUT0hTOUFWb1VOTzRtTGFOWEx6V2M5M1BR)
+- [TIME SERIES : DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneMkdsSnJMTl9lRFVKQjNXQm9GekpsZDRoaVdz)
 
 
 [.](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
