@@ -8,7 +8,8 @@ Repository of Notebooks for the timeseries practicals
 - [TIME SERIES : DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneMkdsSnJMTl9lRFVKQjNXQm9GekpsZDRoaVdz)
 
 
-[.](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
+## Corrected `.ipynb`'s
+[Link to a Google Drive w/ corrected notebooks](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
 
 
 ## Instructions to get started:
