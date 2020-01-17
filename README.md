@@ -7,8 +7,8 @@ Repository of Notebooks for the timeseries practicals
 - [MACHINE LEARNING, TRAPS & SIGNAL CLASSIFICATION](https://drive.google.com/open?id=0B5HWSvDb1DneSlFUT0hTOUFWb1VOTzRtTGFOWEx6V2M5M1BR)
 - [TIME SERIES : DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneMkdsSnJMTl9lRFVKQjNXQm9GekpsZDRoaVdz)
 
-
-[.](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
+## Link to corrected ipynb's
+[Drive with the corrected notebooks](https://drive.google.com/open?id=1lSwyX2rwgnVLWi4Dy1vpZMA7CFCoxOT0)
 
 
 ## Instructions to get started:
